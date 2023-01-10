@@ -3,6 +3,8 @@ on purpose
 yyawqda
 yyawqda
 yyawqda
-add new 
-master
+<<<<<<< HEAD
+=======
+add new hot-fox
+>>>>>>> hot-fix
 
